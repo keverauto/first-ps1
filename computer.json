@@ -1,0 +1,13 @@
+{
+  "computer": {
+    "merk": "Dell",
+    "type": "Inspiron 15",
+    "cpu": "Intel Core i7-1165G7",
+    "ram": "16 GB",
+    "opslag": "512 GB",
+    "vrijeRuimte": "267 GB",
+    "gpu": "NVIDIA GeForce MX350",
+    "besturingssysteem": "Windows 11 Home",
+    "serienummer": "SN123456789"
+  }
+}
